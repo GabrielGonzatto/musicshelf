@@ -1,0 +1,25 @@
+{
+  "generos": [
+    "Eletrônica",
+    "Hip Hop",
+    "Jazz",
+    "Metal",
+    "MPB",
+    "Nativista",
+    "Pop",
+    "Punk",
+    "Rap",
+    "Reggae",
+    "Rock",
+    "Samba",
+    "Sertanejo"
+  ],
+
+  "tipos": [
+    "Álbum",
+    "Álbum ao vivo",
+    "Coletânea",
+    "Single",
+    "Trilha Sonora"
+  ]
+}
